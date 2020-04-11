@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8bf2ad811a97befb5180d42f6bc8a0d6",
+    "revision": "746fea83d2ce31446945c4c5c7a0a360",
     "url": "/ImageHunter/index.html"
   },
   {
-    "revision": "7685218eaf9aa9035591",
+    "revision": "b5b08fbf53eba4da6011",
     "url": "/ImageHunter/static/css/main.b2742afc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ImageHunter/static/js/2.b3d3c8f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7685218eaf9aa9035591",
-    "url": "/ImageHunter/static/js/main.42eb5527.chunk.js"
+    "revision": "b5b08fbf53eba4da6011",
+    "url": "/ImageHunter/static/js/main.caeb9429.chunk.js"
   },
   {
     "revision": "04e60c6086d922f3e971",
