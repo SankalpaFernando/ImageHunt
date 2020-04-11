@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0dc3e9c79e1dd81a03e758fa6dd6a24a",
+    "revision": "8bf2ad811a97befb5180d42f6bc8a0d6",
     "url": "/ImageHunter/index.html"
   },
   {
